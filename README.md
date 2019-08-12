@@ -1,5 +1,5 @@
 # Steggy.(Smart)Chair
-<p>A smart wheelchair that uses machine learning to identify and follow people around. The midline of the image is compared to the midline of the person's boundary box and the wheelchair's continous servos will adjust themselves to center the two midlines. Includes a web-app with buttons for manual control and the code to have the wheelchair move automatically without any input.</p>
+<p>A smart wheelchair that uses facial recognition and machine learning to identify a person of your choice then follow them around. The midline of the image is compared to the midline of the person's boundary box and the wheelchair's continous servos will adjust themselves to center the two midlines. Includes a web-app with buttons for manual control and the code to have the wheelchair move automatically without any input.</p>
 
 <p>Demo: https://vimeo.com/349996145 </p>
 
